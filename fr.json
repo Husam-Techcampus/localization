@@ -1,0 +1,22 @@
+{
+  "fr": {
+    "title": "Application de Localisation",
+    "welcome": "Bienvenue",
+    "language": "Langue",
+    "english": "Anglais",
+    "arabic": "Arabe",
+    "spanish": "Espagnol",
+    "french": "Français",
+    "german": "Allemand",
+    "settings": "Paramètres",
+    "theme": "Thème",
+    "light": "Clair",
+    "dark": "Sombre",
+    "system": "Système",
+    "about": "À propos",
+    "version": "Version 1.0.0",
+    "download_success": "Traductions téléchargées avec succès",
+    "using_cached": "Utilisation des traductions en cache",
+    "network_error": "Erreur réseau - utilisation des traductions de secours"
+  }
+}

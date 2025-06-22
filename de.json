@@ -1,0 +1,22 @@
+{
+  "de": {
+    "title": "Lokalisierungs-App",
+    "welcome": "Willkommen",
+    "language": "Sprache",
+    "english": "Englisch",
+    "arabic": "Arabisch",
+    "spanish": "Spanisch",
+    "french": "Französisch",
+    "german": "Deutsch",
+    "settings": "Einstellungen",
+    "theme": "Thema",
+    "light": "Hell",
+    "dark": "Dunkel",
+    "system": "System",
+    "about": "Über",
+    "version": "Version 1.0.0",
+    "download_success": "Übersetzungen erfolgreich heruntergeladen",
+    "using_cached": "Verwende zwischengespeicherte Übersetzungen",
+    "network_error": "Netzwerkfehler - verwende Fallback-Übersetzungen"
+  }
+}
