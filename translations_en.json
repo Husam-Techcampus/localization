@@ -1,0 +1,25 @@
+{
+  "language_code": "en",
+  "translations": {
+    "title": "Localization App",
+    "welcome": "Welcome",
+    "language": "Language",
+    "english": "English",
+    "arabic": "Arabic",
+    "spanish": "Spanish",
+    "french": "French",
+    "german": "German",
+    "settings": "Settings",
+    "theme": "Theme",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System",
+    "about": "About",
+    "version": "Version 1.0.0",
+    "download_success": "Translations downloaded successfully",
+    "using_cached": "Using cached translations",
+    "network_error": "Network error - using fallback translations"
+  },
+  "version": "1.2.0",
+  "last_updated": "2023-11-20T00:00:00Z"
+}
